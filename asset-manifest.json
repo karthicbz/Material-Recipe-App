@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Material-Recipe-App/static/css/main.74197909.css",
-    "main.js": "/Material-Recipe-App/static/js/main.803efb46.js",
+    "main.js": "/Material-Recipe-App/static/js/main.e00ffd14.js",
     "index.html": "/Material-Recipe-App/index.html",
     "main.74197909.css.map": "/Material-Recipe-App/static/css/main.74197909.css.map",
-    "main.803efb46.js.map": "/Material-Recipe-App/static/js/main.803efb46.js.map"
+    "main.e00ffd14.js.map": "/Material-Recipe-App/static/js/main.e00ffd14.js.map"
   },
   "entrypoints": [
     "static/css/main.74197909.css",
-    "static/js/main.803efb46.js"
+    "static/js/main.e00ffd14.js"
   ]
 }
