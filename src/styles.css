@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+.nav {
+  background-color: cornflowerblue;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1rem;
+  box-shadow: 1px 1px 10px 1px gray;
+}
+
+.nav-items {
+  list-style: none;
+}
+
+.no-underline {
+  text-decoration: none;
+  color: black;
+}
+
+.meal-category {
+  margin: 6px 0;
+}
